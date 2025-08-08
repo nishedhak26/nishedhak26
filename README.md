@@ -25,5 +25,12 @@
 
 ---
 
+## 📂 Featured Projects  
 
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🎬 Netflix Dashboard](https://github.com/username/netflix-dashboard) | Tableau dashboard with Netflix analytics | Tableau |
+
+
+---
 
