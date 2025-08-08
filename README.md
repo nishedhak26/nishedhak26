@@ -29,7 +29,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🎬 Netflix Dashboard](https://github.com/username/netflix-dashboard) | Tableau dashboard with Netflix analytics | Tableau |
+| [🎬 Netflix Dashboard](https://github.com/nishedhak26/Netflix-Dashboard-) | Tableau dashboard with Netflix analytics | Tableau |
 
 
 ---
