@@ -19,4 +19,11 @@
 
 ---
 
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishedha-liyanage?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo%2F0DauD2RFqej2FrFEdSew%3D%3D)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:nishedhaliyanage@gmail.com)  
+
+---
+
+
 
