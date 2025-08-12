@@ -28,7 +28,9 @@
 
 ## 📂 Featured Projects  
 
-🎬 **[Netflix Dashboard](https://github.com/nishedhak26/Netflix-Dashboard-)** – Tableau dashboard analyzing Netflix data trends.  
+🎬 **[Netflix Dashboard](https://github.com/nishedhak26/Netflix-Dashboard-)** – Tableau dashboard analyzing Netflix data trends. 
+
+🎥 **[Movie Recommendation App](https://github.com/nishedhak26/Movie-Recommendation-App)** – Recommends movies based on user preferences using machine learning.  
 
 💰 **[Expense Tracker](https://github.com/nishedhak26/Expense-Tracker)** – Simple and beautiful web app to track income and expenses.  
   
