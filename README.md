@@ -31,8 +31,7 @@
 🎬 **[Netflix Dashboard](https://github.com/nishedhak26/Netflix-Dashboard-)** – Tableau dashboard analyzing Netflix data trends.  
 
 💰 **[Expense Tracker](https://github.com/nishedhak26/Expense-Tracker)** – Simple and beautiful web app to track income and expenses.  
-
-🌤 **[Weather App](https://github.com/nishedhak26/Weather-App)** – Real-time weather updates using the OpenWeather API with React.  
+  
 
 📚 **[FAQ Page](https://github.com/nishedhak26/FAQ-Page)** – Interactive FAQ page with smooth animations.  
 
