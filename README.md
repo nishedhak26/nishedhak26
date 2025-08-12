@@ -28,20 +28,22 @@
 
 ## 📂 Featured Projects  
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🎬 Netflix Dashboard](https://github.com/nishedhak26/Netflix-Dashboard-) | Tableau dashboard analyzing Netflix data trends | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) |
-| [💰 Expense Tracker](https://github.com/nishedhak26/Expense-Tracker) | Track income/expenses with a beautiful UI | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| [🌤 Weather App](https://github.com/nishedhak26/Weather-App) | Real-time weather info using OpenWeather API | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| [📚 FAQ Page](https://github.com/nishedhak26/FAQ-Page) | Simple, interactive FAQ page with animations | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| [🛒 Go Mart](https://github.com/nishedhak26/Go-Mart) | Simple online grocery shop UI | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+🎬 **[Netflix Dashboard](https://github.com/nishedhak26/Netflix-Dashboard-)** – Tableau dashboard analyzing Netflix data trends.  
+
+💰 **[Expense Tracker](https://github.com/nishedhak26/Expense-Tracker)** – Simple and beautiful web app to track income and expenses.  
+
+🌤 **[Weather App](https://github.com/nishedhak26/Weather-App)** – Real-time weather updates using the OpenWeather API with React.  
+
+📚 **[FAQ Page](https://github.com/nishedhak26/FAQ-Page)** – Interactive FAQ page with smooth animations.  
+
+🛒 **[Go Mart](https://github.com/nishedhak26/Go-Mart)** – Clean grocery shop interface built with HTML, CSS, and JavaScript.  
 
 ---
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishedhak26&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishedhak26&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=nishedhak26&theme=tokyonight)
+
 
 ---
 
